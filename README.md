@@ -1,7 +1,7 @@
-# Algoritmo para um mecanismo de busca
+# Heapsort algorithm
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/algorithm-solutions/algorithm-search-engine.svg?style=flat-square)](https://github.com/algorithm-solutions/algorithm-search-engine/issues)
+[![issues](https://img.shields.io/github/issues/algorithm-solutions/algorithm-heapsort.svg?style=flat-square)](https://github.com/algorithm-solutions/algorithm-heapsort/issues)
 
 ## Contributing
 
@@ -13,7 +13,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/algorithm-solutions/algorithm-search-engine/releases) for detailed changelog.
+Check [Releases](https://github.com/algorithm-solutions/algorithm-heapsort/releases) for detailed changelog.
 
 ## License
 
