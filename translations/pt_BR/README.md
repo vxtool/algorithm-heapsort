@@ -1,7 +1,7 @@
 # Algoritmo Heapsort
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/algorithm-solutions/algorithm-heapsort.svg?style=flat-square)](https://github.com/algorithm-solutions/algorithm-heapsort/issues)
+[![issues](https://img.shields.io/github/issues/descco-tools/algorithm-heapsort.svg?style=flat-square)](https://github.com/descco-tools/algorithm-heapsort/issues)
 
 ## Contribuindo
 
@@ -13,7 +13,7 @@
 
 ## Log
 
-Verifique os [Releases](https://github.com/algorithm-solutions/algorithm-heapsort/releases) ver detalhado o log de alterações.
+Verifique os [Releases](https://github.com/descco-tools/algorithm-heapsort/releases) ver detalhado o log de alterações.
 
 ## Licença
 
