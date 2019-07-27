@@ -1,7 +1,11 @@
 # Algoritmo Heapsort
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/descco-tools/algorithm-heapsort.svg?style=flat-square)](https://github.com/descco-tools/algorithm-heapsort/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/algorithm-heapsort.svg)](https://github.com/org-victorinox/algorithm-heapsort/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/algorithm-heapsort.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/algorithm-heapsort.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/algorithm-heapsort.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/algorithm-heapsort/total.svg)
 
 ## Contribuindo
 
@@ -13,7 +17,7 @@
 
 ## Log
 
-Verifique os [Releases](https://github.com/descco-tools/algorithm-heapsort/releases) ver detalhado o log de alterações.
+Verifique os [Releases](https://github.com/org-victorinox/algorithm-heapsort/releases) ver detalhado o log de alterações.
 
 ## Licença
 
